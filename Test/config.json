@@ -1,0 +1,23 @@
+{
+	"videos": [
+		{
+			"desc": "Sync Video Player",
+			"url": "https://www.youtube.com/watch?v=DgC39IYBGIM",
+			"locked": true
+		}
+	],
+	"objects": [
+		{
+			"desc": "Ball",
+			"enabled": false
+		}
+	],
+	"staff": [
+		{
+			"name": "FexDaFox"
+		},
+		{
+			"name": "Aves Protocol"
+		}
+	]
+}

@@ -42,6 +42,10 @@ For legacy reasons, the following structure is left as a vestigial part of the e
 
 ## Config Structure
 
+### WARNING
+Always use a JSON validator to make sure the changes are actually valid, otherwise you may end up breaking things in the world.
+The [JSON Lint](https://jsonlint.com/) site has one available.
+
 ### Staff
 it is recommended to keep the staff list in alphabetical order to make it easy to find someone if necessary
 uses the result of [VRCPlayerApi.displayName](https://udonsharp.docs.vrchat.com/vrchat-api/#vrcplayerapi) to do the matching
